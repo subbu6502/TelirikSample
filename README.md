@@ -1,2 +1,0 @@
-# TelirikSample
-Telirik PhoneGap sample
